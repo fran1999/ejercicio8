@@ -1,5 +1,0 @@
-n = input()
-if n.lower() == n[len(n)::-1].lower():
-	print ('very good')
-else:
-	print('no son igualesg')
