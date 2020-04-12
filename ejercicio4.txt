@@ -1,3 +1,0 @@
-preguntas = [['Buenos Aires limita con Santiago del Estero', 'no'],['Jujuy limita con Bolivia', 'si'],['San Juan limita con Misiones', 'no]]
-cont = 0
-print(preguntas[0])
