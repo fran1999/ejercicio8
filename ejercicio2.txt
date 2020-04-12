@@ -1,0 +1,8 @@
+tam = ['im1 4,14', 'im2 33,15', 'im3 6,34', 'im4 410,134']
+new = []
+for i in tam:
+	letras,medio,num = i.partition(' ')
+	new.append((int(num.split(',')[0]),int(num.split(',')[1])))
+print(new)
+new.sort()
+print(new)
